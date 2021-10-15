@@ -3,8 +3,8 @@
 This project was inspired by Sid Meier's Civilization game series and my hobby in simulation games. This project was started a few years ago. 
 
 # Goal:
-To practice object-oriented programming \n
-To understand Java GUI, particularly Java AWT and Java Swing
+To practice object-oriented programming__
+To understand Java GUI, particularly Java AWT and Java Swing__
 To analyze the results of (pseudo) random actions of players in the game
 
 # Overview:
