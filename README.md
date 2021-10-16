@@ -3,9 +3,9 @@
 This project was inspired by Sid Meier's Civilization game series and my hobby in simulation games. This project was started a few years ago. 
 
 # Goals:
-To practice object-oriented programming <br />
-To understand Java GUI, particularly Java AWT and Java Swing <br />
-To analyze the results of (pseudo) random actions of players in the game
+* To practice object-oriented programming
+* To understand Java GUI, particularly Java AWT and Java Swing
+* To analyze the results of (pseudo) random actions of players in the game
 
 # Overview:
 The game starts by generating a world using Perlin Noise. I did not write the code for this: I found it on a website but I am unable to trace the exact page. 
